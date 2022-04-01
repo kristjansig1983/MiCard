@@ -1,4 +1,4 @@
-#Thu Mar 31 13:33:15 GMT 2022
+#Fri Apr 01 08:22:20 GMT 2022
 base.0=C\:\\Users\\kriss\\StudioProjects\\MiCard\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
